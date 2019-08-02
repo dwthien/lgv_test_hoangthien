@@ -1,0 +1,7 @@
+rule1:
+  spent_amount: 60
+  percent_discount: 10
+rule2:
+  item_code: '001'
+  quantity: 2
+  item_pay_price: 8.5
